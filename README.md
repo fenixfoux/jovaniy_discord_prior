@@ -18,10 +18,10 @@ set to "low" over time and as a result it freezes and/or crashes.
 
 Checks the priority every 30 seconds, and sets the value as "High"
 
-"in the current ready .The exe file in the dist folder contains a discord", for it to work
-, just download it and run it, it will work until Windows is turned off. 
+"in the current built .exe file in the dist folder is set the 'discord' process", 
+for it to work, just download it and run it, it will work until Windows is turned off. 
 
 To run the script automatically every time Windows starts, you need to:
-    - - download the folder "jovani_discord_lag_watcher" and save it to disk "C"
-- file "discord_priority_watcher.bat" cut and save to a folder at the address "C:\Users\your_user_name\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup"
-- done, now every time Windows starts, the script will run and run in the background.
+    - download the folder "jovani_discord_lag_watcher" and save it to disk "C"
+    - file "discord_priority_watcher.bat" cut and save to a folder at the address "C:\Users\your_user_name\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup"
+    - done, now every time Windows starts, the script will run and run in the background.
